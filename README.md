@@ -6,3 +6,6 @@
 <img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/70c64215-6ddf-491c-b04b-da6cf33408d4' />
 <img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/f6da782c-ae35-4253-ac53-e675e04eccea' />
 <img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/03252e59-11bd-42a9-a94e-d97b36860678' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/2b185272-71e0-4e8a-ab9d-88d28682ab09' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/c189b27b-2878-45c1-870a-2286b09e6eb8' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/391d3242-13b3-42db-a2f6-7c652ac80456' />
