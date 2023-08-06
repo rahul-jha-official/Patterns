@@ -1,50 +1,8 @@
 # Patterns
-
-**1. Pattern:**</br></br>
-1</br>
-1 2</br>
-1 2 3</br>
-1 2 3 4</br>
-1 2 3 4 5</br>
-
-**2. Pattern:**</br></br>
-        1</br>
-      2 1</br>
-    3 2 1</br>
-  4 3 2 1</br>
-5 4 3 2 1</br>
-
-**3. Pattern:**</br></br>
-5 4 3 2 1</br>
-5 4 3 2</br>
-5 4 3</br>
-5 4</br>
-5</br>
-
-**4. Pattern:**</br></br>
-        1</br>
-      1 2</br>
-    1 2 3</br>
-  1 2 3 4</br>
-1 2 3 4 5</br>
-
-**5. Pattern:**</br></br>
-        1</br>
-      2 2</br>
-    3 3 3</br>
-  4 4 4 4</br>
-5 5 5 5 5</br>
-
-**6. Pattern:**</br></br>
-0</br>
-1 0</br>
-0 1 0</br>
-1 0 1 0</br>
-0 1 0 1 0</br>
-
-**7. Pattern:**</br></br>
-        1</br>
-      1 0</br>
-    1 0 1</br>
-  1 0 1 0</br>
-1 0 1 0 1</br>
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/fb7a48b7-e5ad-4cb2-81a8-d0193555dc08' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/ee0d83b6-2d2f-42e0-a40e-e35a61ef487e' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/e42b3bb7-af12-43c1-89e1-67c92a20cb88' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/d7174c51-686e-4384-b6d1-d7556e968f81' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/70c64215-6ddf-491c-b04b-da6cf33408d4' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/f6da782c-ae35-4253-ac53-e675e04eccea' />
+<img width = '220' height= '220' src = 'https://github.com/rahul-jha-official/Patterns/assets/138975150/03252e59-11bd-42a9-a94e-d97b36860678' />
