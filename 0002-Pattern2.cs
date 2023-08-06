@@ -27,7 +27,7 @@ public class Pattern2
     {
         for (int i = 1; 
                 i <= n; 
-                Console.WriteLine($"{new string(' ', 2 * (n - i))}{string.Join(" ", Enumerable.Range(1, i).Select(j => i - j + 1))}"),i++
+                Console.WriteLine($"{new string(' ', 2 * (n - i))}{string.Join(" ", Enumerable.Range(1, i).OrderByDescending(j => j))}"),i++
                 );
     }
 }
